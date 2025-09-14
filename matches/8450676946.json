@@ -1,0 +1,1318 @@
+{
+  "data": {
+    "match": {
+      "leagueId": 18324,
+      "direTeam": {
+        "name": "Nigma Galaxy"
+      },
+      "direTeamId": 7554697,
+      "radiantTeam": {
+        "name": "Aurora Gaming"
+      },
+      "radiantTeamId": 9467224,
+      "durationSeconds": 3834,
+      "players": [
+        {
+          "playbackData": {
+            "itemUsedEvents": [],
+            "playerUpdatePositionEvents": []
+          },
+          "hero": {
+            "displayName": "Marci"
+          },
+          "steamAccountId": 124801257,
+          "isRadiant": true,
+          "stats": {
+            "wards": [
+              {
+                "time": -6,
+                "type": 1,
+                "positionX": 164,
+                "positionY": 100
+              },
+              {
+                "time": -2,
+                "type": 0,
+                "positionX": 180,
+                "positionY": 100
+              }
+            ]
+          }
+        },
+        {
+          "playbackData": {
+            "itemUsedEvents": [],
+            "playerUpdatePositionEvents": []
+          },
+          "hero": {
+            "displayName": "Tinker"
+          },
+          "steamAccountId": 858106446,
+          "isRadiant": true,
+          "stats": {
+            "wards": [
+              {
+                "time": -24,
+                "type": 0,
+                "positionX": 120,
+                "positionY": 136
+              }
+            ]
+          }
+        },
+        {
+          "playbackData": {
+            "itemUsedEvents": [],
+            "playerUpdatePositionEvents": []
+          },
+          "hero": {
+            "displayName": "Magnus"
+          },
+          "steamAccountId": 431770905,
+          "isRadiant": true,
+          "stats": {
+            "wards": [
+              {
+                "time": 3709,
+                "type": 1,
+                "positionX": 116,
+                "positionY": 92
+              },
+              {
+                "time": 3713,
+                "type": 0,
+                "positionX": 128,
+                "positionY": 96
+              }
+            ]
+          }
+        },
+        {
+          "playbackData": {
+            "itemUsedEvents": [
+              {
+                "time": 1117,
+                "itemId": 188
+              },
+              {
+                "time": 1311,
+                "itemId": 188
+              },
+              {
+                "time": 2096,
+                "itemId": 188
+              },
+              {
+                "time": 2214,
+                "itemId": 188
+              },
+              {
+                "time": 3092,
+                "itemId": 188
+              },
+              {
+                "time": 3760,
+                "itemId": 188
+              }
+            ],
+            "playerUpdatePositionEvents": [
+              {
+                "time": 1117,
+                "x": 88,
+                "y": 138
+              },
+              {
+                "time": 2096,
+                "x": 90,
+                "y": 132
+              },
+              {
+                "time": 2214,
+                "x": 128,
+                "y": 144
+              }
+            ]
+          },
+          "hero": {
+            "displayName": "Batrider"
+          },
+          "steamAccountId": 256156323,
+          "isRadiant": true,
+          "stats": {
+            "wards": [
+              {
+                "time": 29,
+                "type": 1,
+                "positionX": 94,
+                "positionY": 164
+              },
+              {
+                "time": 50,
+                "type": 1,
+                "positionX": 96,
+                "positionY": 168
+              },
+              {
+                "time": 302,
+                "type": 0,
+                "positionX": 90,
+                "positionY": 132
+              },
+              {
+                "time": 328,
+                "type": 1,
+                "positionX": 120,
+                "positionY": 130
+              },
+              {
+                "time": 361,
+                "type": 1,
+                "positionX": 90,
+                "positionY": 150
+              },
+              {
+                "time": 367,
+                "type": 0,
+                "positionX": 106,
+                "positionY": 140
+              },
+              {
+                "time": 499,
+                "type": 1,
+                "positionX": 100,
+                "positionY": 124
+              },
+              {
+                "time": 534,
+                "type": 0,
+                "positionX": 94,
+                "positionY": 118
+              },
+              {
+                "time": 647,
+                "type": 1,
+                "positionX": 118,
+                "positionY": 104
+              },
+              {
+                "time": 1201,
+                "type": 1,
+                "positionX": 136,
+                "positionY": 120
+              },
+              {
+                "time": 1215,
+                "type": 0,
+                "positionX": 164,
+                "positionY": 134
+              },
+              {
+                "time": 1380,
+                "type": 1,
+                "positionX": 186,
+                "positionY": 74
+              },
+              {
+                "time": 1383,
+                "type": 0,
+                "positionX": 192,
+                "positionY": 78
+              },
+              {
+                "time": 1534,
+                "type": 1,
+                "positionX": 158,
+                "positionY": 92
+              },
+              {
+                "time": 1640,
+                "type": 1,
+                "positionX": 94,
+                "positionY": 120
+              },
+              {
+                "time": 1764,
+                "type": 0,
+                "positionX": 118,
+                "positionY": 138
+              },
+              {
+                "time": 1765,
+                "type": 1,
+                "positionX": 116,
+                "positionY": 136
+              },
+              {
+                "time": 2005,
+                "type": 1,
+                "positionX": 134,
+                "positionY": 126
+              },
+              {
+                "time": 2039,
+                "type": 0,
+                "positionX": 142,
+                "positionY": 136
+              },
+              {
+                "time": 2057,
+                "type": 1,
+                "positionX": 124,
+                "positionY": 96
+              },
+              {
+                "time": 2127,
+                "type": 0,
+                "positionX": 120,
+                "positionY": 136
+              },
+              {
+                "time": 2149,
+                "type": 1,
+                "positionX": 120,
+                "positionY": 148
+              },
+              {
+                "time": 2191,
+                "type": 1,
+                "positionX": 134,
+                "positionY": 154
+              },
+              {
+                "time": 2535,
+                "type": 1,
+                "positionX": 94,
+                "positionY": 84
+              },
+              {
+                "time": 2571,
+                "type": 1,
+                "positionX": 134,
+                "positionY": 102
+              },
+              {
+                "time": 2572,
+                "type": 0,
+                "positionX": 142,
+                "positionY": 100
+              },
+              {
+                "time": 2928,
+                "type": 0,
+                "positionX": 78,
+                "positionY": 132
+              },
+              {
+                "time": 3139,
+                "type": 0,
+                "positionX": 134,
+                "positionY": 156
+              },
+              {
+                "time": 3414,
+                "type": 0,
+                "positionX": 94,
+                "positionY": 120
+              },
+              {
+                "time": 3414,
+                "type": 1,
+                "positionX": 88,
+                "positionY": 116
+              },
+              {
+                "time": 3561,
+                "type": 1,
+                "positionX": 96,
+                "positionY": 130
+              },
+              {
+                "time": 3563,
+                "type": 0,
+                "positionX": 100,
+                "positionY": 134
+              },
+              {
+                "time": 3582,
+                "type": 0,
+                "positionX": 98,
+                "positionY": 138
+              },
+              {
+                "time": 3808,
+                "type": 1,
+                "positionX": 92,
+                "positionY": 88
+              },
+              {
+                "time": 3812,
+                "type": 1,
+                "positionX": 92,
+                "positionY": 78
+              }
+            ]
+          }
+        },
+        {
+          "playbackData": {
+            "itemUsedEvents": [
+              {
+                "time": -42,
+                "itemId": 188
+              },
+              {
+                "time": 751,
+                "itemId": 188
+              },
+              {
+                "time": 1420,
+                "itemId": 188
+              },
+              {
+                "time": 2813,
+                "itemId": 188
+              }
+            ],
+            "playerUpdatePositionEvents": [
+              {
+                "time": -42,
+                "x": 106,
+                "y": 110
+              },
+              {
+                "time": 751,
+                "x": 132,
+                "y": 102
+              },
+              {
+                "time": 1420,
+                "x": 128,
+                "y": 102
+              },
+              {
+                "time": 2813,
+                "x": 74,
+                "y": 78
+              }
+            ]
+          },
+          "hero": {
+            "displayName": "Ringmaster"
+          },
+          "steamAccountId": 108958769,
+          "isRadiant": true,
+          "stats": {
+            "wards": [
+              {
+                "time": 68,
+                "type": 1,
+                "positionX": 154,
+                "positionY": 86
+              },
+              {
+                "time": 332,
+                "type": 1,
+                "positionX": 124,
+                "positionY": 96
+              },
+              {
+                "time": 335,
+                "type": 0,
+                "positionX": 128,
+                "positionY": 96
+              },
+              {
+                "time": 473,
+                "type": 1,
+                "positionX": 160,
+                "positionY": 96
+              },
+              {
+                "time": 708,
+                "type": 1,
+                "positionX": 96,
+                "positionY": 126
+              },
+              {
+                "time": 748,
+                "type": 1,
+                "positionX": 132,
+                "positionY": 102
+              },
+              {
+                "time": 761,
+                "type": 0,
+                "positionX": 152,
+                "positionY": 96
+              },
+              {
+                "time": 809,
+                "type": 1,
+                "positionX": 116,
+                "positionY": 116
+              },
+              {
+                "time": 811,
+                "type": 0,
+                "positionX": 116,
+                "positionY": 114
+              },
+              {
+                "time": 929,
+                "type": 1,
+                "positionX": 90,
+                "positionY": 130
+              },
+              {
+                "time": 947,
+                "type": 1,
+                "positionX": 80,
+                "positionY": 154
+              },
+              {
+                "time": 1035,
+                "type": 0,
+                "positionX": 102,
+                "positionY": 126
+              },
+              {
+                "time": 1036,
+                "type": 1,
+                "positionX": 102,
+                "positionY": 126
+              },
+              {
+                "time": 1097,
+                "type": 1,
+                "positionX": 94,
+                "positionY": 120
+              },
+              {
+                "time": 1193,
+                "type": 1,
+                "positionX": 116,
+                "positionY": 132
+              },
+              {
+                "time": 1196,
+                "type": 0,
+                "positionX": 122,
+                "positionY": 136
+              },
+              {
+                "time": 1333,
+                "type": 1,
+                "positionX": 138,
+                "positionY": 94
+              },
+              {
+                "time": 1385,
+                "type": 1,
+                "positionX": 132,
+                "positionY": 108
+              },
+              {
+                "time": 1532,
+                "type": 0,
+                "positionX": 140,
+                "positionY": 102
+              },
+              {
+                "time": 1552,
+                "type": 1,
+                "positionX": 176,
+                "positionY": 84
+              },
+              {
+                "time": 1583,
+                "type": 1,
+                "positionX": 164,
+                "positionY": 134
+              },
+              {
+                "time": 1585,
+                "type": 0,
+                "positionX": 174,
+                "positionY": 138
+              },
+              {
+                "time": 1625,
+                "type": 1,
+                "positionX": 154,
+                "positionY": 120
+              },
+              {
+                "time": 1811,
+                "type": 1,
+                "positionX": 66,
+                "positionY": 124
+              },
+              {
+                "time": 1818,
+                "type": 1,
+                "positionX": 64,
+                "positionY": 140
+              },
+              {
+                "time": 1838,
+                "type": 0,
+                "positionX": 94,
+                "positionY": 120
+              },
+              {
+                "time": 1909,
+                "type": 1,
+                "positionX": 98,
+                "positionY": 90
+              },
+              {
+                "time": 2398,
+                "type": 1,
+                "positionX": 154,
+                "positionY": 154
+              },
+              {
+                "time": 2494,
+                "type": 1,
+                "positionX": 82,
+                "positionY": 78
+              },
+              {
+                "time": 2559,
+                "type": 1,
+                "positionX": 118,
+                "positionY": 94
+              },
+              {
+                "time": 2612,
+                "type": 1,
+                "positionX": 94,
+                "positionY": 118
+              },
+              {
+                "time": 2613,
+                "type": 0,
+                "positionX": 94,
+                "positionY": 118
+              },
+              {
+                "time": 2654,
+                "type": 1,
+                "positionX": 102,
+                "positionY": 112
+              },
+              {
+                "time": 2760,
+                "type": 1,
+                "positionX": 80,
+                "positionY": 98
+              },
+              {
+                "time": 2931,
+                "type": 1,
+                "positionX": 88,
+                "positionY": 132
+              },
+              {
+                "time": 2983,
+                "type": 1,
+                "positionX": 114,
+                "positionY": 148
+              },
+              {
+                "time": 2984,
+                "type": 0,
+                "positionX": 114,
+                "positionY": 148
+              },
+              {
+                "time": 3134,
+                "type": 0,
+                "positionX": 138,
+                "positionY": 192
+              },
+              {
+                "time": 3312,
+                "type": 1,
+                "positionX": 86,
+                "positionY": 96
+              },
+              {
+                "time": 3326,
+                "type": 1,
+                "positionX": 94,
+                "positionY": 86
+              },
+              {
+                "time": 3350,
+                "type": 1,
+                "positionX": 78,
+                "positionY": 98
+              }
+            ]
+          }
+        },
+        {
+          "playbackData": {
+            "itemUsedEvents": [],
+            "playerUpdatePositionEvents": []
+          },
+          "hero": {
+            "displayName": "Ursa"
+          },
+          "steamAccountId": 206642367,
+          "isRadiant": false,
+          "stats": {
+            "wards": []
+          }
+        },
+        {
+          "playbackData": {
+            "itemUsedEvents": [],
+            "playerUpdatePositionEvents": []
+          },
+          "hero": {
+            "displayName": "Shadow Fiend"
+          },
+          "steamAccountId": 111620041,
+          "isRadiant": false,
+          "stats": {
+            "wards": [
+              {
+                "time": 0,
+                "type": 0,
+                "positionX": 122,
+                "positionY": 132
+              },
+              {
+                "time": 507,
+                "type": 0,
+                "positionX": 128,
+                "positionY": 124
+              },
+              {
+                "time": 507,
+                "type": 1,
+                "positionX": 126,
+                "positionY": 122
+              }
+            ]
+          }
+        },
+        {
+          "playbackData": {
+            "itemUsedEvents": [],
+            "playerUpdatePositionEvents": []
+          },
+          "hero": {
+            "displayName": "Lycan"
+          },
+          "steamAccountId": 140297552,
+          "isRadiant": false,
+          "stats": {
+            "wards": [
+              {
+                "time": 580,
+                "type": 1,
+                "positionX": 186,
+                "positionY": 114
+              }
+            ]
+          }
+        },
+        {
+          "playbackData": {
+            "itemUsedEvents": [
+              {
+                "time": 1276,
+                "itemId": 188
+              }
+            ],
+            "playerUpdatePositionEvents": [
+              {
+                "time": 1276,
+                "x": 178,
+                "y": 68
+              }
+            ]
+          },
+          "hero": {
+            "displayName": "Tusk"
+          },
+          "steamAccountId": 101356886,
+          "isRadiant": false,
+          "stats": {
+            "wards": [
+              {
+                "time": -58,
+                "type": 0,
+                "positionX": 114,
+                "positionY": 148
+              },
+              {
+                "time": -19,
+                "type": 1,
+                "positionX": 98,
+                "positionY": 136
+              },
+              {
+                "time": 38,
+                "type": 1,
+                "positionX": 96,
+                "positionY": 168
+              },
+              {
+                "time": 202,
+                "type": 1,
+                "positionX": 96,
+                "positionY": 168
+              },
+              {
+                "time": 405,
+                "type": 0,
+                "positionX": 92,
+                "positionY": 118
+              },
+              {
+                "time": 497,
+                "type": 1,
+                "positionX": 116,
+                "positionY": 130
+              },
+              {
+                "time": 530,
+                "type": 1,
+                "positionX": 94,
+                "positionY": 128
+              },
+              {
+                "time": 774,
+                "type": 1,
+                "positionX": 90,
+                "positionY": 130
+              },
+              {
+                "time": 784,
+                "type": 0,
+                "positionX": 84,
+                "positionY": 138
+              },
+              {
+                "time": 964,
+                "type": 1,
+                "positionX": 108,
+                "positionY": 162
+              },
+              {
+                "time": 1268,
+                "type": 0,
+                "positionX": 142,
+                "positionY": 72
+              },
+              {
+                "time": 1389,
+                "type": 1,
+                "positionX": 118,
+                "positionY": 152
+              },
+              {
+                "time": 1715,
+                "type": 1,
+                "positionX": 98,
+                "positionY": 122
+              },
+              {
+                "time": 1755,
+                "type": 1,
+                "positionX": 116,
+                "positionY": 92
+              },
+              {
+                "time": 1758,
+                "type": 0,
+                "positionX": 112,
+                "positionY": 80
+              },
+              {
+                "time": 2104,
+                "type": 0,
+                "positionX": 166,
+                "positionY": 114
+              },
+              {
+                "time": 2112,
+                "type": 1,
+                "positionX": 178,
+                "positionY": 112
+              },
+              {
+                "time": 2157,
+                "type": 1,
+                "positionX": 144,
+                "positionY": 90
+              },
+              {
+                "time": 3642,
+                "type": 0,
+                "positionX": 110,
+                "positionY": 66
+              },
+              {
+                "time": 3642,
+                "type": 1,
+                "positionX": 110,
+                "positionY": 66
+              }
+            ]
+          }
+        },
+        {
+          "playbackData": {
+            "itemUsedEvents": [
+              {
+                "time": -11,
+                "itemId": 188
+              },
+              {
+                "time": 885,
+                "itemId": 188
+              },
+              {
+                "time": 999,
+                "itemId": 188
+              },
+              {
+                "time": 1872,
+                "itemId": 188
+              },
+              {
+                "time": 2109,
+                "itemId": 188
+              },
+              {
+                "time": 2186,
+                "itemId": 188
+              },
+              {
+                "time": 2691,
+                "itemId": 188
+              },
+              {
+                "time": 3095,
+                "itemId": 188
+              },
+              {
+                "time": 3744,
+                "itemId": 188
+              },
+              {
+                "time": 3805,
+                "itemId": 188
+              }
+            ],
+            "playerUpdatePositionEvents": [
+              {
+                "time": 885,
+                "x": 138,
+                "y": 128
+              },
+              {
+                "time": 999,
+                "x": 96,
+                "y": 160
+              },
+              {
+                "time": 1872,
+                "x": 138,
+                "y": 98
+              },
+              {
+                "time": 2109,
+                "x": 188,
+                "y": 120
+              },
+              {
+                "time": 2691,
+                "x": 136,
+                "y": 134
+              },
+              {
+                "time": 3744,
+                "x": 94,
+                "y": 122
+              },
+              {
+                "time": 3805,
+                "x": 108,
+                "y": 106
+              }
+            ]
+          },
+          "hero": {
+            "displayName": "Bane"
+          },
+          "steamAccountId": 152168157,
+          "isRadiant": false,
+          "stats": {
+            "wards": [
+              {
+                "time": 59,
+                "type": 1,
+                "positionX": 162,
+                "positionY": 90
+              },
+              {
+                "time": 237,
+                "type": 1,
+                "positionX": 156,
+                "positionY": 90
+              },
+              {
+                "time": 247,
+                "type": 0,
+                "positionX": 140,
+                "positionY": 88
+              },
+              {
+                "time": 504,
+                "type": 1,
+                "positionX": 128,
+                "positionY": 116
+              },
+              {
+                "time": 580,
+                "type": 1,
+                "positionX": 92,
+                "positionY": 118
+              },
+              {
+                "time": 643,
+                "type": 1,
+                "positionX": 118,
+                "positionY": 102
+              },
+              {
+                "time": 712,
+                "type": 0,
+                "positionX": 138,
+                "positionY": 92
+              },
+              {
+                "time": 823,
+                "type": 1,
+                "positionX": 134,
+                "positionY": 98
+              },
+              {
+                "time": 908,
+                "type": 0,
+                "positionX": 154,
+                "positionY": 72
+              },
+              {
+                "time": 933,
+                "type": 1,
+                "positionX": 80,
+                "positionY": 154
+              },
+              {
+                "time": 940,
+                "type": 0,
+                "positionX": 90,
+                "positionY": 162
+              },
+              {
+                "time": 983,
+                "type": 1,
+                "positionX": 94,
+                "positionY": 172
+              },
+              {
+                "time": 1072,
+                "type": 1,
+                "positionX": 110,
+                "positionY": 124
+              },
+              {
+                "time": 1168,
+                "type": 1,
+                "positionX": 78,
+                "positionY": 158
+              },
+              {
+                "time": 1178,
+                "type": 1,
+                "positionX": 82,
+                "positionY": 172
+              },
+              {
+                "time": 1194,
+                "type": 0,
+                "positionX": 64,
+                "positionY": 176
+              },
+              {
+                "time": 1412,
+                "type": 1,
+                "positionX": 152,
+                "positionY": 122
+              },
+              {
+                "time": 1497,
+                "type": 1,
+                "positionX": 168,
+                "positionY": 114
+              },
+              {
+                "time": 1526,
+                "type": 1,
+                "positionX": 132,
+                "positionY": 120
+              },
+              {
+                "time": 1532,
+                "type": 0,
+                "positionX": 132,
+                "positionY": 126
+              },
+              {
+                "time": 1631,
+                "type": 1,
+                "positionX": 138,
+                "positionY": 138
+              },
+              {
+                "time": 1643,
+                "type": 1,
+                "positionX": 112,
+                "positionY": 126
+              },
+              {
+                "time": 1671,
+                "type": 0,
+                "positionX": 76,
+                "positionY": 128
+              },
+              {
+                "time": 1723,
+                "type": 0,
+                "positionX": 110,
+                "positionY": 104
+              },
+              {
+                "time": 2025,
+                "type": 1,
+                "positionX": 166,
+                "positionY": 150
+              },
+              {
+                "time": 2154,
+                "type": 1,
+                "positionX": 134,
+                "positionY": 100
+              },
+              {
+                "time": 2157,
+                "type": 0,
+                "positionX": 130,
+                "positionY": 96
+              },
+              {
+                "time": 2207,
+                "type": 1,
+                "positionX": 106,
+                "positionY": 130
+              },
+              {
+                "time": 2213,
+                "type": 0,
+                "positionX": 110,
+                "positionY": 130
+              },
+              {
+                "time": 2244,
+                "type": 1,
+                "positionX": 96,
+                "positionY": 130
+              },
+              {
+                "time": 2312,
+                "type": 1,
+                "positionX": 120,
+                "positionY": 138
+              },
+              {
+                "time": 2313,
+                "type": 0,
+                "positionX": 122,
+                "positionY": 136
+              },
+              {
+                "time": 2381,
+                "type": 1,
+                "positionX": 152,
+                "positionY": 160
+              },
+              {
+                "time": 2482,
+                "type": 0,
+                "positionX": 96,
+                "positionY": 88
+              },
+              {
+                "time": 2482,
+                "type": 1,
+                "positionX": 96,
+                "positionY": 88
+              },
+              {
+                "time": 2548,
+                "type": 1,
+                "positionX": 130,
+                "positionY": 160
+              },
+              {
+                "time": 2707,
+                "type": 1,
+                "positionX": 98,
+                "positionY": 122
+              },
+              {
+                "time": 2713,
+                "type": 0,
+                "positionX": 92,
+                "positionY": 130
+              },
+              {
+                "time": 2745,
+                "type": 0,
+                "positionX": 92,
+                "positionY": 118
+              },
+              {
+                "time": 2758,
+                "type": 1,
+                "positionX": 112,
+                "positionY": 124
+              },
+              {
+                "time": 2800,
+                "type": 0,
+                "positionX": 100,
+                "positionY": 76
+              },
+              {
+                "time": 2800,
+                "type": 1,
+                "positionX": 100,
+                "positionY": 76
+              },
+              {
+                "time": 2981,
+                "type": 1,
+                "positionX": 128,
+                "positionY": 116
+              },
+              {
+                "time": 2983,
+                "type": 0,
+                "positionX": 132,
+                "positionY": 114
+              },
+              {
+                "time": 3129,
+                "type": 1,
+                "positionX": 152,
+                "positionY": 94
+              },
+              {
+                "time": 3173,
+                "type": 1,
+                "positionX": 118,
+                "positionY": 92
+              },
+              {
+                "time": 3173,
+                "type": 0,
+                "positionX": 116,
+                "positionY": 94
+              },
+              {
+                "time": 3260,
+                "type": 1,
+                "positionX": 134,
+                "positionY": 168
+              },
+              {
+                "time": 3264,
+                "type": 1,
+                "positionX": 136,
+                "positionY": 156
+              },
+              {
+                "time": 3264,
+                "type": 0,
+                "positionX": 136,
+                "positionY": 156
+              },
+              {
+                "time": 3405,
+                "type": 1,
+                "positionX": 150,
+                "positionY": 164
+              },
+              {
+                "time": 3457,
+                "type": 1,
+                "positionX": 112,
+                "positionY": 126
+              },
+              {
+                "time": 3463,
+                "type": 0,
+                "positionX": 100,
+                "positionY": 132
+              },
+              {
+                "time": 3463,
+                "type": 1,
+                "positionX": 100,
+                "positionY": 132
+              },
+              {
+                "time": 3607,
+                "type": 1,
+                "positionX": 98,
+                "positionY": 122
+              },
+              {
+                "time": 3608,
+                "type": 0,
+                "positionX": 94,
+                "positionY": 120
+              },
+              {
+                "time": 3764,
+                "type": 0,
+                "positionX": 90,
+                "positionY": 94
+              },
+              {
+                "time": 3764,
+                "type": 1,
+                "positionX": 90,
+                "positionY": 94
+              },
+              {
+                "time": 3808,
+                "type": 1,
+                "positionX": 116,
+                "positionY": 94
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

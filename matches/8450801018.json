@@ -1,0 +1,799 @@
+{
+  "data": {
+    "match": {
+      "leagueId": 18324,
+      "direTeam": {
+        "name": "Aurora Gaming"
+      },
+      "direTeamId": 9467224,
+      "radiantTeam": {
+        "name": "Nigma Galaxy"
+      },
+      "radiantTeamId": 7554697,
+      "durationSeconds": 1964,
+      "players": [
+        {
+          "playbackData": {
+            "itemUsedEvents": [],
+            "playerUpdatePositionEvents": []
+          },
+          "hero": {
+            "displayName": "Medusa"
+          },
+          "steamAccountId": 206642367,
+          "isRadiant": true,
+          "stats": {
+            "wards": [
+              {
+                "time": 922,
+                "type": 1,
+                "positionX": 116,
+                "positionY": 96
+              }
+            ]
+          }
+        },
+        {
+          "playbackData": {
+            "itemUsedEvents": [],
+            "playerUpdatePositionEvents": []
+          },
+          "hero": {
+            "displayName": "Invoker"
+          },
+          "steamAccountId": 111620041,
+          "isRadiant": true,
+          "stats": {
+            "wards": [
+              {
+                "time": -29,
+                "type": 0,
+                "positionX": 118,
+                "positionY": 120
+              },
+              {
+                "time": 344,
+                "type": 0,
+                "positionX": 120,
+                "positionY": 120
+              }
+            ]
+          }
+        },
+        {
+          "playbackData": {
+            "itemUsedEvents": [],
+            "playerUpdatePositionEvents": []
+          },
+          "hero": {
+            "displayName": "Underlord"
+          },
+          "steamAccountId": 140297552,
+          "isRadiant": true,
+          "stats": {
+            "wards": [
+              {
+                "time": -4,
+                "type": 0,
+                "positionX": 110,
+                "positionY": 160
+              },
+              {
+                "time": 831,
+                "type": 1,
+                "positionX": 94,
+                "positionY": 126
+              }
+            ]
+          }
+        },
+        {
+          "playbackData": {
+            "itemUsedEvents": [
+              {
+                "time": -40,
+                "itemId": 188
+              },
+              {
+                "time": 1357,
+                "itemId": 188
+              }
+            ],
+            "playerUpdatePositionEvents": [
+              {
+                "time": -40,
+                "x": 132,
+                "y": 104
+              },
+              {
+                "time": 1357,
+                "x": 162,
+                "y": 96
+              }
+            ]
+          },
+          "hero": {
+            "displayName": "Tusk"
+          },
+          "steamAccountId": 101356886,
+          "isRadiant": true,
+          "stats": {
+            "wards": [
+              {
+                "time": 120,
+                "type": 1,
+                "positionX": 166,
+                "positionY": 94
+              },
+              {
+                "time": 236,
+                "type": 1,
+                "positionX": 150,
+                "positionY": 116
+              },
+              {
+                "time": 313,
+                "type": 0,
+                "positionX": 142,
+                "positionY": 136
+              },
+              {
+                "time": 384,
+                "type": 1,
+                "positionX": 120,
+                "positionY": 134
+              },
+              {
+                "time": 496,
+                "type": 1,
+                "positionX": 152,
+                "positionY": 116
+              },
+              {
+                "time": 662,
+                "type": 1,
+                "positionX": 110,
+                "positionY": 160
+              },
+              {
+                "time": 792,
+                "type": 0,
+                "positionX": 176,
+                "positionY": 94
+              },
+              {
+                "time": 936,
+                "type": 0,
+                "positionX": 116,
+                "positionY": 188
+              },
+              {
+                "time": 937,
+                "type": 1,
+                "positionX": 114,
+                "positionY": 182
+              },
+              {
+                "time": 990,
+                "type": 1,
+                "positionX": 134,
+                "positionY": 154
+              },
+              {
+                "time": 1042,
+                "type": 0,
+                "positionX": 134,
+                "positionY": 154
+              },
+              {
+                "time": 1094,
+                "type": 1,
+                "positionX": 110,
+                "positionY": 164
+              },
+              {
+                "time": 1350,
+                "type": 0,
+                "positionX": 160,
+                "positionY": 102
+              },
+              {
+                "time": 1511,
+                "type": 1,
+                "positionX": 136,
+                "positionY": 124
+              }
+            ]
+          }
+        },
+        {
+          "playbackData": {
+            "itemUsedEvents": [
+              {
+                "time": 726,
+                "itemId": 188
+              },
+              {
+                "time": 1240,
+                "itemId": 188
+              },
+              {
+                "time": 1487,
+                "itemId": 188
+              }
+            ],
+            "playerUpdatePositionEvents": [
+              {
+                "time": 726,
+                "x": 106,
+                "y": 124
+              },
+              {
+                "time": 1240,
+                "x": 82,
+                "y": 148
+              },
+              {
+                "time": 1487,
+                "x": 108,
+                "y": 120
+              }
+            ]
+          },
+          "hero": {
+            "displayName": "Bane"
+          },
+          "steamAccountId": 152168157,
+          "isRadiant": true,
+          "stats": {
+            "wards": [
+              {
+                "time": 295,
+                "type": 1,
+                "positionX": 92,
+                "positionY": 156
+              },
+              {
+                "time": 385,
+                "type": 1,
+                "positionX": 120,
+                "positionY": 144
+              },
+              {
+                "time": 532,
+                "type": 0,
+                "positionX": 126,
+                "positionY": 156
+              },
+              {
+                "time": 571,
+                "type": 1,
+                "positionX": 80,
+                "positionY": 152
+              },
+              {
+                "time": 707,
+                "type": 1,
+                "positionX": 132,
+                "positionY": 120
+              },
+              {
+                "time": 842,
+                "type": 1,
+                "positionX": 94,
+                "positionY": 160
+              },
+              {
+                "time": 844,
+                "type": 0,
+                "positionX": 100,
+                "positionY": 158
+              },
+              {
+                "time": 910,
+                "type": 0,
+                "positionX": 94,
+                "positionY": 174
+              },
+              {
+                "time": 952,
+                "type": 1,
+                "positionX": 120,
+                "positionY": 152
+              },
+              {
+                "time": 962,
+                "type": 1,
+                "positionX": 118,
+                "positionY": 132
+              },
+              {
+                "time": 1014,
+                "type": 1,
+                "positionX": 144,
+                "positionY": 90
+              },
+              {
+                "time": 1095,
+                "type": 1,
+                "positionX": 130,
+                "positionY": 120
+              },
+              {
+                "time": 1208,
+                "type": 1,
+                "positionX": 124,
+                "positionY": 114
+              },
+              {
+                "time": 1259,
+                "type": 1,
+                "positionX": 68,
+                "positionY": 184
+              },
+              {
+                "time": 1277,
+                "type": 0,
+                "positionX": 192,
+                "positionY": 78
+              },
+              {
+                "time": 1374,
+                "type": 1,
+                "positionX": 188,
+                "positionY": 114
+              },
+              {
+                "time": 1422,
+                "type": 1,
+                "positionX": 80,
+                "positionY": 154
+              },
+              {
+                "time": 1459,
+                "type": 0,
+                "positionX": 92,
+                "positionY": 142
+              },
+              {
+                "time": 1515,
+                "type": 1,
+                "positionX": 134,
+                "positionY": 134
+              },
+              {
+                "time": 1635,
+                "type": 1,
+                "positionX": 120,
+                "positionY": 152
+              },
+              {
+                "time": 1670,
+                "type": 1,
+                "positionX": 136,
+                "positionY": 154
+              },
+              {
+                "time": 1670,
+                "type": 0,
+                "positionX": 136,
+                "positionY": 154
+              },
+              {
+                "time": 1760,
+                "type": 0,
+                "positionX": 154,
+                "positionY": 160
+              },
+              {
+                "time": 1760,
+                "type": 1,
+                "positionX": 154,
+                "positionY": 160
+              },
+              {
+                "time": 1879,
+                "type": 0,
+                "positionX": 164,
+                "positionY": 134
+              },
+              {
+                "time": 1882,
+                "type": 1,
+                "positionX": 168,
+                "positionY": 138
+              },
+              {
+                "time": 1944,
+                "type": 1,
+                "positionX": 176,
+                "positionY": 150
+              }
+            ]
+          }
+        },
+        {
+          "playbackData": {
+            "itemUsedEvents": [],
+            "playerUpdatePositionEvents": []
+          },
+          "hero": {
+            "displayName": "Faceless Void"
+          },
+          "steamAccountId": 124801257,
+          "isRadiant": false,
+          "stats": {
+            "wards": []
+          }
+        },
+        {
+          "playbackData": {
+            "itemUsedEvents": [],
+            "playerUpdatePositionEvents": []
+          },
+          "hero": {
+            "displayName": "Earthshaker"
+          },
+          "steamAccountId": 858106446,
+          "isRadiant": false,
+          "stats": {
+            "wards": [
+              {
+                "time": 356,
+                "type": 1,
+                "positionX": 134,
+                "positionY": 122
+              },
+              {
+                "time": 431,
+                "type": 0,
+                "positionX": 130,
+                "positionY": 126
+              }
+            ]
+          }
+        },
+        {
+          "playbackData": {
+            "itemUsedEvents": [],
+            "playerUpdatePositionEvents": []
+          },
+          "hero": {
+            "displayName": "Dawnbreaker"
+          },
+          "steamAccountId": 431770905,
+          "isRadiant": false,
+          "stats": {
+            "wards": [
+              {
+                "time": 964,
+                "type": 1,
+                "positionX": 120,
+                "positionY": 186
+              }
+            ]
+          }
+        },
+        {
+          "playbackData": {
+            "itemUsedEvents": [
+              {
+                "time": 825,
+                "itemId": 188
+              },
+              {
+                "time": 1578,
+                "itemId": 188
+              },
+              {
+                "time": 1760,
+                "itemId": 188
+              },
+              {
+                "time": 1890,
+                "itemId": 188
+              }
+            ],
+            "playerUpdatePositionEvents": [
+              {
+                "time": 825,
+                "x": 148,
+                "y": 126
+              },
+              {
+                "time": 1578,
+                "x": 144,
+                "y": 164
+              },
+              {
+                "time": 1760,
+                "x": 188,
+                "y": 140
+              },
+              {
+                "time": 1890,
+                "x": 144,
+                "y": 174
+              }
+            ]
+          },
+          "hero": {
+            "displayName": "Dark Willow"
+          },
+          "steamAccountId": 256156323,
+          "isRadiant": false,
+          "stats": {
+            "wards": [
+              {
+                "time": -24,
+                "type": 0,
+                "positionX": 146,
+                "positionY": 118
+              },
+              {
+                "time": 88,
+                "type": 1,
+                "positionX": 156,
+                "positionY": 90
+              },
+              {
+                "time": 302,
+                "type": 0,
+                "positionX": 162,
+                "positionY": 112
+              },
+              {
+                "time": 344,
+                "type": 1,
+                "positionX": 144,
+                "positionY": 132
+              },
+              {
+                "time": 398,
+                "type": 1,
+                "positionX": 160,
+                "positionY": 132
+              },
+              {
+                "time": 518,
+                "type": 1,
+                "positionX": 152,
+                "positionY": 120
+              },
+              {
+                "time": 561,
+                "type": 0,
+                "positionX": 136,
+                "positionY": 154
+              },
+              {
+                "time": 810,
+                "type": 1,
+                "positionX": 134,
+                "positionY": 130
+              },
+              {
+                "time": 864,
+                "type": 0,
+                "positionX": 142,
+                "positionY": 70
+              },
+              {
+                "time": 907,
+                "type": 1,
+                "positionX": 176,
+                "positionY": 80
+              },
+              {
+                "time": 995,
+                "type": 0,
+                "positionX": 104,
+                "positionY": 170
+              },
+              {
+                "time": 1088,
+                "type": 1,
+                "positionX": 166,
+                "positionY": 92
+              },
+              {
+                "time": 1201,
+                "type": 1,
+                "positionX": 120,
+                "positionY": 154
+              },
+              {
+                "time": 1468,
+                "type": 0,
+                "positionX": 114,
+                "positionY": 140
+              },
+              {
+                "time": 1615,
+                "type": 0,
+                "positionX": 128,
+                "positionY": 64
+              },
+              {
+                "time": 1782,
+                "type": 0,
+                "positionX": 146,
+                "positionY": 154
+              },
+              {
+                "time": 1836,
+                "type": 1,
+                "positionX": 136,
+                "positionY": 156
+              }
+            ]
+          }
+        },
+        {
+          "playbackData": {
+            "itemUsedEvents": [
+              {
+                "time": -42,
+                "itemId": 188
+              }
+            ],
+            "playerUpdatePositionEvents": []
+          },
+          "hero": {
+            "displayName": "Disruptor"
+          },
+          "steamAccountId": 108958769,
+          "isRadiant": false,
+          "stats": {
+            "wards": [
+              {
+                "time": -8,
+                "type": 1,
+                "positionX": 156,
+                "positionY": 118
+              },
+              {
+                "time": -2,
+                "type": 0,
+                "positionX": 106,
+                "positionY": 144
+              },
+              {
+                "time": 19,
+                "type": 1,
+                "positionX": 102,
+                "positionY": 166
+              },
+              {
+                "time": 172,
+                "type": 1,
+                "positionX": 88,
+                "positionY": 156
+              },
+              {
+                "time": 338,
+                "type": 0,
+                "positionX": 114,
+                "positionY": 144
+              },
+              {
+                "time": 484,
+                "type": 1,
+                "positionX": 122,
+                "positionY": 142
+              },
+              {
+                "time": 494,
+                "type": 1,
+                "positionX": 116,
+                "positionY": 154
+              },
+              {
+                "time": 845,
+                "type": 1,
+                "positionX": 120,
+                "positionY": 98
+              },
+              {
+                "time": 925,
+                "type": 1,
+                "positionX": 134,
+                "positionY": 98
+              },
+              {
+                "time": 937,
+                "type": 1,
+                "positionX": 128,
+                "positionY": 112
+              },
+              {
+                "time": 940,
+                "type": 0,
+                "positionX": 124,
+                "positionY": 114
+              },
+              {
+                "time": 1028,
+                "type": 1,
+                "positionX": 112,
+                "positionY": 178
+              },
+              {
+                "time": 1108,
+                "type": 1,
+                "positionX": 186,
+                "positionY": 70
+              },
+              {
+                "time": 1110,
+                "type": 0,
+                "positionX": 184,
+                "positionY": 62
+              },
+              {
+                "time": 1248,
+                "type": 1,
+                "positionX": 72,
+                "positionY": 184
+              },
+              {
+                "time": 1367,
+                "type": 1,
+                "positionX": 154,
+                "positionY": 122
+              },
+              {
+                "time": 1378,
+                "type": 0,
+                "positionX": 162,
+                "positionY": 114
+              },
+              {
+                "time": 1418,
+                "type": 1,
+                "positionX": 180,
+                "positionY": 118
+              },
+              {
+                "time": 1538,
+                "type": 1,
+                "positionX": 136,
+                "positionY": 134
+              },
+              {
+                "time": 1622,
+                "type": 0,
+                "positionX": 124,
+                "positionY": 88
+              },
+              {
+                "time": 1682,
+                "type": 1,
+                "positionX": 148,
+                "positionY": 164
+              },
+              {
+                "time": 1742,
+                "type": 1,
+                "positionX": 156,
+                "positionY": 166
+              },
+              {
+                "time": 1755,
+                "type": 1,
+                "positionX": 166,
+                "positionY": 152
+              },
+              {
+                "time": 1783,
+                "type": 1,
+                "positionX": 146,
+                "positionY": 154
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+}
