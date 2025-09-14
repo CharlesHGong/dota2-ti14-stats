@@ -3,6 +3,7 @@
 在线预览（GitHub Pages）：
 
 - https://charleshgong.github.io/dota2-ti14-stats/
+- https://idyllic-figolla-66c264.netlify.app/
 
 ## 项目简介
 
