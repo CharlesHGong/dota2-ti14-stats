@@ -226,7 +226,7 @@ export default function App() {
         <img
           ref={imgRef}
           id="dota-map"
-          src="/dota2_map.jpg"
+          src={`${import.meta.env.BASE_URL}dota2_map.jpg`}
           alt="Dota 2 Map"
           style={{ display: "block", width: "100%", height: "auto" }}
           onLoad={syncOverlay}
