@@ -1,0 +1,1498 @@
+[
+  {
+    "id": 8460471023,
+    "radiantTeamId": 8261500,
+    "radiantTeam": {
+      "name": "Xtreme Gaming"
+    },
+    "direTeamId": 8255888,
+    "direTeam": {
+      "name": "BetBoom Team"
+    }
+  },
+  {
+    "id": 8460339590,
+    "radiantTeamId": 8261500,
+    "radiantTeam": {
+      "name": "Xtreme Gaming"
+    },
+    "direTeamId": 8255888,
+    "direTeam": {
+      "name": "BetBoom Team"
+    }
+  },
+  {
+    "id": 8460164236,
+    "radiantTeamId": 9572001,
+    "radiantTeam": {
+      "name": "PARIVISION"
+    },
+    "direTeamId": 9247354,
+    "direTeam": {
+      "name": "Team Falcons"
+    }
+  },
+  {
+    "id": 8460035179,
+    "radiantTeamId": 9572001,
+    "radiantTeam": {
+      "name": "PARIVISION"
+    },
+    "direTeamId": 9247354,
+    "direTeam": {
+      "name": "Team Falcons"
+    }
+  },
+  {
+    "id": 8459915275,
+    "radiantTeamId": 9247354,
+    "radiantTeam": {
+      "name": "Team Falcons"
+    },
+    "direTeamId": 9572001,
+    "direTeam": {
+      "name": "PARIVISION"
+    }
+  },
+  {
+    "id": 8459739606,
+    "radiantTeamId": 9303484,
+    "radiantTeam": {
+      "name": "Heroic"
+    },
+    "direTeamId": 8255888,
+    "direTeam": {
+      "name": "BetBoom Team"
+    }
+  },
+  {
+    "id": 8459601896,
+    "radiantTeamId": 9303484,
+    "radiantTeam": {
+      "name": "Heroic"
+    },
+    "direTeamId": 8255888,
+    "direTeam": {
+      "name": "BetBoom Team"
+    }
+  },
+  {
+    "id": 8459506710,
+    "radiantTeamId": 9303484,
+    "radiantTeam": {
+      "name": "Heroic"
+    },
+    "direTeamId": 8255888,
+    "direTeam": {
+      "name": "BetBoom Team"
+    }
+  },
+  {
+    "id": 8459402480,
+    "radiantTeamId": 8261500,
+    "radiantTeam": {
+      "name": "Xtreme Gaming"
+    },
+    "direTeamId": 7554697,
+    "direTeam": {
+      "name": "Nigma Galaxy"
+    }
+  },
+  {
+    "id": 8459315753,
+    "radiantTeamId": 8261500,
+    "radiantTeam": {
+      "name": "Xtreme Gaming"
+    },
+    "direTeamId": 7554697,
+    "direTeam": {
+      "name": "Nigma Galaxy"
+    }
+  },
+  {
+    "id": 8458567498,
+    "radiantTeamId": 8255888,
+    "radiantTeam": {
+      "name": "BetBoom Team"
+    },
+    "direTeamId": 9247354,
+    "direTeam": {
+      "name": "Team Falcons"
+    }
+  },
+  {
+    "id": 8458460625,
+    "radiantTeamId": 8255888,
+    "radiantTeam": {
+      "name": "BetBoom Team"
+    },
+    "direTeamId": 9247354,
+    "direTeam": {
+      "name": "Team Falcons"
+    }
+  },
+  {
+    "id": 8458323214,
+    "radiantTeamId": 9247354,
+    "radiantTeam": {
+      "name": "Team Falcons"
+    },
+    "direTeamId": 8255888,
+    "direTeam": {
+      "name": "BetBoom Team"
+    }
+  },
+  {
+    "id": 8458145799,
+    "radiantTeamId": 8261500,
+    "radiantTeam": {
+      "name": "Xtreme Gaming"
+    },
+    "direTeamId": 9572001,
+    "direTeam": {
+      "name": "PARIVISION"
+    }
+  },
+  {
+    "id": 8458048475,
+    "radiantTeamId": 8261500,
+    "radiantTeam": {
+      "name": "Xtreme Gaming"
+    },
+    "direTeamId": 9572001,
+    "direTeam": {
+      "name": "PARIVISION"
+    }
+  },
+  {
+    "id": 8457933650,
+    "radiantTeamId": 7554697,
+    "radiantTeam": {
+      "name": "Nigma Galaxy"
+    },
+    "direTeamId": 9640842,
+    "direTeam": {
+      "name": "Team Tidebound"
+    }
+  },
+  {
+    "id": 8457856206,
+    "radiantTeamId": 9640842,
+    "radiantTeam": {
+      "name": "Team Tidebound"
+    },
+    "direTeamId": 7554697,
+    "direTeam": {
+      "name": "Nigma Galaxy"
+    }
+  },
+  {
+    "id": 8457758995,
+    "radiantTeamId": 9303484,
+    "radiantTeam": {
+      "name": "Heroic"
+    },
+    "direTeamId": 8291895,
+    "direTeam": {
+      "name": "Tundra Esports"
+    }
+  },
+  {
+    "id": 8457701049,
+    "radiantTeamId": 9303484,
+    "radiantTeam": {
+      "name": "Heroic"
+    },
+    "direTeamId": 8291895,
+    "direTeam": {
+      "name": "Tundra Esports"
+    }
+  },
+  {
+    "id": 8457241577,
+    "radiantTeamId": 8255888,
+    "radiantTeam": {
+      "name": "BetBoom Team"
+    },
+    "direTeamId": 7554697,
+    "direTeam": {
+      "name": "Nigma Galaxy"
+    }
+  },
+  {
+    "id": 8457152687,
+    "radiantTeamId": 7554697,
+    "radiantTeam": {
+      "name": "Nigma Galaxy"
+    },
+    "direTeamId": 8255888,
+    "direTeam": {
+      "name": "BetBoom Team"
+    }
+  },
+  {
+    "id": 8457023058,
+    "radiantTeamId": 8255888,
+    "radiantTeam": {
+      "name": "BetBoom Team"
+    },
+    "direTeamId": 7554697,
+    "direTeam": {
+      "name": "Nigma Galaxy"
+    }
+  },
+  {
+    "id": 8456886907,
+    "radiantTeamId": 9640842,
+    "radiantTeam": {
+      "name": "Team Tidebound"
+    },
+    "direTeamId": 9247354,
+    "direTeam": {
+      "name": "Team Falcons"
+    }
+  },
+  {
+    "id": 8456770626,
+    "radiantTeamId": 9247354,
+    "radiantTeam": {
+      "name": "Team Falcons"
+    },
+    "direTeamId": 9640842,
+    "direTeam": {
+      "name": "Team Tidebound"
+    }
+  },
+  {
+    "id": 8456620817,
+    "radiantTeamId": 9303484,
+    "radiantTeam": {
+      "name": "Heroic"
+    },
+    "direTeamId": 9572001,
+    "direTeam": {
+      "name": "PARIVISION"
+    }
+  },
+  {
+    "id": 8456498646,
+    "radiantTeamId": 9303484,
+    "radiantTeam": {
+      "name": "Heroic"
+    },
+    "direTeamId": 9572001,
+    "direTeam": {
+      "name": "PARIVISION"
+    }
+  },
+  {
+    "id": 8456408416,
+    "radiantTeamId": 8261500,
+    "radiantTeam": {
+      "name": "Xtreme Gaming"
+    },
+    "direTeamId": 8291895,
+    "direTeam": {
+      "name": "Tundra Esports"
+    }
+  },
+  {
+    "id": 8456356386,
+    "radiantTeamId": 8261500,
+    "radiantTeam": {
+      "name": "Xtreme Gaming"
+    },
+    "direTeamId": 8291895,
+    "direTeam": {
+      "name": "Tundra Esports"
+    }
+  },
+  {
+    "id": 8451671758,
+    "radiantTeamId": 7119388,
+    "radiantTeam": {
+      "name": "Team Spirit"
+    },
+    "direTeamId": 9247354,
+    "direTeam": {
+      "name": "Team Falcons"
+    }
+  },
+  {
+    "id": 8451547891,
+    "radiantTeamId": 7119388,
+    "radiantTeam": {
+      "name": "Team Spirit"
+    },
+    "direTeamId": 9247354,
+    "direTeam": {
+      "name": "Team Falcons"
+    }
+  },
+  {
+    "id": 8451467455,
+    "radiantTeamId": 8291895,
+    "radiantTeam": {
+      "name": "Tundra Esports"
+    },
+    "direTeamId": 2163,
+    "direTeam": {
+      "name": "Team Liquid"
+    }
+  },
+  {
+    "id": 8451320602,
+    "radiantTeamId": 2163,
+    "radiantTeam": {
+      "name": "Team Liquid"
+    },
+    "direTeamId": 8291895,
+    "direTeam": {
+      "name": "Tundra Esports"
+    }
+  },
+  {
+    "id": 8451163837,
+    "radiantTeamId": 8291895,
+    "radiantTeam": {
+      "name": "Tundra Esports"
+    },
+    "direTeamId": 2163,
+    "direTeam": {
+      "name": "Team Liquid"
+    }
+  },
+  {
+    "id": 8451015743,
+    "radiantTeamId": 9572001,
+    "radiantTeam": {
+      "name": "PARIVISION"
+    },
+    "direTeamId": 9651185,
+    "direTeam": {
+      "name": "Wildcard"
+    }
+  },
+  {
+    "id": 8450892039,
+    "radiantTeamId": 9651185,
+    "radiantTeam": {
+      "name": "Wildcard"
+    },
+    "direTeamId": 9572001,
+    "direTeam": {
+      "name": "PARIVISION"
+    }
+  },
+  {
+    "id": 8450801018,
+    "radiantTeamId": 7554697,
+    "radiantTeam": {
+      "name": "Nigma Galaxy"
+    },
+    "direTeamId": 9467224,
+    "direTeam": {
+      "name": "Aurora Gaming"
+    }
+  },
+  {
+    "id": 8450676946,
+    "radiantTeamId": 9467224,
+    "radiantTeam": {
+      "name": "Aurora Gaming"
+    },
+    "direTeamId": 7554697,
+    "direTeam": {
+      "name": "Nigma Galaxy"
+    }
+  },
+  {
+    "id": 8450578598,
+    "radiantTeamId": 7554697,
+    "radiantTeam": {
+      "name": "Nigma Galaxy"
+    },
+    "direTeamId": 9467224,
+    "direTeam": {
+      "name": "Aurora Gaming"
+    }
+  },
+  {
+    "id": 8450028444,
+    "radiantTeamId": 9351740,
+    "radiantTeam": {
+      "name": "Invictus Gaming"
+    },
+    "direTeamId": 9303484,
+    "direTeam": {
+      "name": "Heroic"
+    }
+  },
+  {
+    "id": 8449938910,
+    "radiantTeamId": 9303484,
+    "radiantTeam": {
+      "name": "Heroic"
+    },
+    "direTeamId": 9351740,
+    "direTeam": {
+      "name": "Invictus Gaming"
+    }
+  },
+  {
+    "id": 8449812647,
+    "radiantTeamId": 9247354,
+    "radiantTeam": {
+      "name": "Team Falcons"
+    },
+    "direTeamId": 9640842,
+    "direTeam": {
+      "name": "Team Tidebound"
+    }
+  },
+  {
+    "id": 8449730523,
+    "radiantTeamId": 8255888,
+    "radiantTeam": {
+      "name": "BetBoom Team"
+    },
+    "direTeamId": 9572001,
+    "direTeam": {
+      "name": "PARIVISION"
+    }
+  },
+  {
+    "id": 8449657829,
+    "radiantTeamId": 9247354,
+    "radiantTeam": {
+      "name": "Team Falcons"
+    },
+    "direTeamId": 9640842,
+    "direTeam": {
+      "name": "Team Tidebound"
+    }
+  },
+  {
+    "id": 8449596871,
+    "radiantTeamId": 8255888,
+    "radiantTeam": {
+      "name": "BetBoom Team"
+    },
+    "direTeamId": 9572001,
+    "direTeam": {
+      "name": "PARIVISION"
+    }
+  },
+  {
+    "id": 8449478853,
+    "radiantTeamId": 9467224,
+    "radiantTeam": {
+      "name": "Aurora Gaming"
+    },
+    "direTeamId": 7119388,
+    "direTeam": {
+      "name": "Team Spirit"
+    }
+  },
+  {
+    "id": 8449477805,
+    "radiantTeamId": 9572001,
+    "radiantTeam": {
+      "name": "PARIVISION"
+    },
+    "direTeamId": 8255888,
+    "direTeam": {
+      "name": "BetBoom Team"
+    }
+  },
+  {
+    "id": 8449465357,
+    "radiantTeamId": 9640842,
+    "radiantTeam": {
+      "name": "Team Tidebound"
+    },
+    "direTeamId": 9247354,
+    "direTeam": {
+      "name": "Team Falcons"
+    }
+  },
+  {
+    "id": 8449373051,
+    "radiantTeamId": 7119388,
+    "radiantTeam": {
+      "name": "Team Spirit"
+    },
+    "direTeamId": 9467224,
+    "direTeam": {
+      "name": "Aurora Gaming"
+    }
+  },
+  {
+    "id": 8449367944,
+    "radiantTeamId": 36,
+    "radiantTeam": {
+      "name": "Natus Vincere"
+    },
+    "direTeamId": 7554697,
+    "direTeam": {
+      "name": "Nigma Galaxy"
+    }
+  },
+  {
+    "id": 8449364249,
+    "radiantTeamId": 2163,
+    "radiantTeam": {
+      "name": "Team Liquid"
+    },
+    "direTeamId": 9351740,
+    "direTeam": {
+      "name": "Invictus Gaming"
+    }
+  },
+  {
+    "id": 8449325870,
+    "radiantTeamId": 7732977,
+    "radiantTeam": {
+      "name": "BOOM Esports"
+    },
+    "direTeamId": 9651185,
+    "direTeam": {
+      "name": "Wildcard"
+    }
+  },
+  {
+    "id": 8449266258,
+    "radiantTeamId": 2163,
+    "radiantTeam": {
+      "name": "Team Liquid"
+    },
+    "direTeamId": 9351740,
+    "direTeam": {
+      "name": "Invictus Gaming"
+    }
+  },
+  {
+    "id": 8449262800,
+    "radiantTeamId": 9303484,
+    "radiantTeam": {
+      "name": "Heroic"
+    },
+    "direTeamId": 8291895,
+    "direTeam": {
+      "name": "Tundra Esports"
+    }
+  },
+  {
+    "id": 8449262405,
+    "radiantTeamId": 36,
+    "radiantTeam": {
+      "name": "Natus Vincere"
+    },
+    "direTeamId": 7554697,
+    "direTeam": {
+      "name": "Nigma Galaxy"
+    }
+  },
+  {
+    "id": 8449186733,
+    "radiantTeamId": 7732977,
+    "radiantTeam": {
+      "name": "BOOM Esports"
+    },
+    "direTeamId": 9651185,
+    "direTeam": {
+      "name": "Wildcard"
+    }
+  },
+  {
+    "id": 8449171637,
+    "radiantTeamId": 2163,
+    "radiantTeam": {
+      "name": "Team Liquid"
+    },
+    "direTeamId": 9351740,
+    "direTeam": {
+      "name": "Invictus Gaming"
+    }
+  },
+  {
+    "id": 8449168759,
+    "radiantTeamId": 9303484,
+    "radiantTeam": {
+      "name": "Heroic"
+    },
+    "direTeamId": 8291895,
+    "direTeam": {
+      "name": "Tundra Esports"
+    }
+  },
+  {
+    "id": 8449132115,
+    "radiantTeamId": 7554697,
+    "radiantTeam": {
+      "name": "Nigma Galaxy"
+    },
+    "direTeamId": 36,
+    "direTeam": {
+      "name": "Natus Vincere"
+    }
+  },
+  {
+    "id": 8449114098,
+    "radiantTeamId": 7732977,
+    "radiantTeam": {
+      "name": "BOOM Esports"
+    },
+    "direTeamId": 9651185,
+    "direTeam": {
+      "name": "Wildcard"
+    }
+  },
+  {
+    "id": 8449042316,
+    "radiantTeamId": 7119388,
+    "radiantTeam": {
+      "name": "Team Spirit"
+    },
+    "direTeamId": 9572001,
+    "direTeam": {
+      "name": "PARIVISION"
+    }
+  },
+  {
+    "id": 8449036139,
+    "radiantTeamId": 2163,
+    "radiantTeam": {
+      "name": "Team Liquid"
+    },
+    "direTeamId": 9247354,
+    "direTeam": {
+      "name": "Team Falcons"
+    }
+  },
+  {
+    "id": 8449034111,
+    "radiantTeamId": 8255888,
+    "radiantTeam": {
+      "name": "BetBoom Team"
+    },
+    "direTeamId": 9467224,
+    "direTeam": {
+      "name": "Aurora Gaming"
+    }
+  },
+  {
+    "id": 8449030528,
+    "radiantTeamId": 9640842,
+    "radiantTeam": {
+      "name": "Team Tidebound"
+    },
+    "direTeamId": 8261500,
+    "direTeam": {
+      "name": "Xtreme Gaming"
+    }
+  },
+  {
+    "id": 8448961997,
+    "radiantTeamId": 2163,
+    "radiantTeam": {
+      "name": "Team Liquid"
+    },
+    "direTeamId": 9247354,
+    "direTeam": {
+      "name": "Team Falcons"
+    }
+  },
+  {
+    "id": 8448961923,
+    "radiantTeamId": 8261500,
+    "radiantTeam": {
+      "name": "Xtreme Gaming"
+    },
+    "direTeamId": 9640842,
+    "direTeam": {
+      "name": "Team Tidebound"
+    }
+  },
+  {
+    "id": 8448961898,
+    "radiantTeamId": 9467224,
+    "radiantTeam": {
+      "name": "Aurora Gaming"
+    },
+    "direTeamId": 8255888,
+    "direTeam": {
+      "name": "BetBoom Team"
+    }
+  },
+  {
+    "id": 8448961876,
+    "radiantTeamId": 7119388,
+    "radiantTeam": {
+      "name": "Team Spirit"
+    },
+    "direTeamId": 9572001,
+    "direTeam": {
+      "name": "PARIVISION"
+    }
+  },
+  {
+    "id": 8448323081,
+    "radiantTeamId": 36,
+    "radiantTeam": {
+      "name": "Natus Vincere"
+    },
+    "direTeamId": 8291895,
+    "direTeam": {
+      "name": "Tundra Esports"
+    }
+  },
+  {
+    "id": 8448290176,
+    "radiantTeamId": 7554697,
+    "radiantTeam": {
+      "name": "Nigma Galaxy"
+    },
+    "direTeamId": 9351740,
+    "direTeam": {
+      "name": "Invictus Gaming"
+    }
+  },
+  {
+    "id": 8448225319,
+    "radiantTeamId": 36,
+    "radiantTeam": {
+      "name": "Natus Vincere"
+    },
+    "direTeamId": 8291895,
+    "direTeam": {
+      "name": "Tundra Esports"
+    }
+  },
+  {
+    "id": 8448189915,
+    "radiantTeamId": 9351740,
+    "radiantTeam": {
+      "name": "Invictus Gaming"
+    },
+    "direTeamId": 7554697,
+    "direTeam": {
+      "name": "Nigma Galaxy"
+    }
+  },
+  {
+    "id": 8448175133,
+    "radiantTeamId": 9303484,
+    "radiantTeam": {
+      "name": "Heroic"
+    },
+    "direTeamId": 9651185,
+    "direTeam": {
+      "name": "Wildcard"
+    }
+  },
+  {
+    "id": 8448140804,
+    "radiantTeamId": 9691969,
+    "radiantTeam": {
+      "name": "Team Nemesis"
+    },
+    "direTeamId": 7732977,
+    "direTeam": {
+      "name": "BOOM Esports"
+    }
+  },
+  {
+    "id": 8448101385,
+    "radiantTeamId": 7554697,
+    "radiantTeam": {
+      "name": "Nigma Galaxy"
+    },
+    "direTeamId": 9351740,
+    "direTeam": {
+      "name": "Invictus Gaming"
+    }
+  },
+  {
+    "id": 8448084548,
+    "radiantTeamId": 36,
+    "radiantTeam": {
+      "name": "Natus Vincere"
+    },
+    "direTeamId": 8291895,
+    "direTeam": {
+      "name": "Tundra Esports"
+    }
+  },
+  {
+    "id": 8448069484,
+    "radiantTeamId": 9303484,
+    "radiantTeam": {
+      "name": "Heroic"
+    },
+    "direTeamId": 9651185,
+    "direTeam": {
+      "name": "Wildcard"
+    }
+  },
+  {
+    "id": 8448038524,
+    "radiantTeamId": 9691969,
+    "radiantTeam": {
+      "name": "Team Nemesis"
+    },
+    "direTeamId": 7732977,
+    "direTeam": {
+      "name": "BOOM Esports"
+    }
+  },
+  {
+    "id": 8447914552,
+    "radiantTeamId": 7554697,
+    "radiantTeam": {
+      "name": "Nigma Galaxy"
+    },
+    "direTeamId": 2163,
+    "direTeam": {
+      "name": "Team Liquid"
+    }
+  },
+  {
+    "id": 8447908059,
+    "radiantTeamId": 9572001,
+    "radiantTeam": {
+      "name": "PARIVISION"
+    },
+    "direTeamId": 9640842,
+    "direTeam": {
+      "name": "Team Tidebound"
+    }
+  },
+  {
+    "id": 8447807379,
+    "radiantTeamId": 9572001,
+    "radiantTeam": {
+      "name": "PARIVISION"
+    },
+    "direTeamId": 9640842,
+    "direTeam": {
+      "name": "Team Tidebound"
+    }
+  },
+  {
+    "id": 8447804654,
+    "radiantTeamId": 7554697,
+    "radiantTeam": {
+      "name": "Nigma Galaxy"
+    },
+    "direTeamId": 2163,
+    "direTeam": {
+      "name": "Team Liquid"
+    }
+  },
+  {
+    "id": 8447726611,
+    "radiantTeamId": 2163,
+    "radiantTeam": {
+      "name": "Team Liquid"
+    },
+    "direTeamId": 7554697,
+    "direTeam": {
+      "name": "Nigma Galaxy"
+    }
+  },
+  {
+    "id": 8447715678,
+    "radiantTeamId": 36,
+    "radiantTeam": {
+      "name": "Natus Vincere"
+    },
+    "direTeamId": 8255888,
+    "direTeam": {
+      "name": "BetBoom Team"
+    }
+  },
+  {
+    "id": 8447703577,
+    "radiantTeamId": 8261500,
+    "radiantTeam": {
+      "name": "Xtreme Gaming"
+    },
+    "direTeamId": 9247354,
+    "direTeam": {
+      "name": "Team Falcons"
+    }
+  },
+  {
+    "id": 8447689339,
+    "radiantTeamId": 7732977,
+    "radiantTeam": {
+      "name": "BOOM Esports"
+    },
+    "direTeamId": 9303484,
+    "direTeam": {
+      "name": "Heroic"
+    }
+  },
+  {
+    "id": 8447659966,
+    "radiantTeamId": 36,
+    "radiantTeam": {
+      "name": "Natus Vincere"
+    },
+    "direTeamId": 8255888,
+    "direTeam": {
+      "name": "BetBoom Team"
+    }
+  },
+  {
+    "id": 8447659831,
+    "radiantTeamId": 7119388,
+    "radiantTeam": {
+      "name": "Team Spirit"
+    },
+    "direTeamId": 8291895,
+    "direTeam": {
+      "name": "Tundra Esports"
+    }
+  },
+  {
+    "id": 8447645427,
+    "radiantTeamId": 9303484,
+    "radiantTeam": {
+      "name": "Heroic"
+    },
+    "direTeamId": 7732977,
+    "direTeam": {
+      "name": "BOOM Esports"
+    }
+  },
+  {
+    "id": 8447613945,
+    "radiantTeamId": 9247354,
+    "radiantTeam": {
+      "name": "Team Falcons"
+    },
+    "direTeamId": 8261500,
+    "direTeam": {
+      "name": "Xtreme Gaming"
+    }
+  },
+  {
+    "id": 8447604181,
+    "radiantTeamId": 7119388,
+    "radiantTeam": {
+      "name": "Team Spirit"
+    },
+    "direTeamId": 8291895,
+    "direTeam": {
+      "name": "Tundra Esports"
+    }
+  },
+  {
+    "id": 8447600831,
+    "radiantTeamId": 9467224,
+    "radiantTeam": {
+      "name": "Aurora Gaming"
+    },
+    "direTeamId": 9351740,
+    "direTeam": {
+      "name": "Invictus Gaming"
+    }
+  },
+  {
+    "id": 8447594081,
+    "radiantTeamId": 9691969,
+    "radiantTeam": {
+      "name": "Team Nemesis"
+    },
+    "direTeamId": 9651185,
+    "direTeam": {
+      "name": "Wildcard"
+    }
+  },
+  {
+    "id": 8447555480,
+    "radiantTeamId": 9691969,
+    "radiantTeam": {
+      "name": "Team Nemesis"
+    },
+    "direTeamId": 9651185,
+    "direTeam": {
+      "name": "Wildcard"
+    }
+  },
+  {
+    "id": 8447555180,
+    "radiantTeamId": 7119388,
+    "radiantTeam": {
+      "name": "Team Spirit"
+    },
+    "direTeamId": 8291895,
+    "direTeam": {
+      "name": "Tundra Esports"
+    }
+  },
+  {
+    "id": 8447554972,
+    "radiantTeamId": 8261500,
+    "radiantTeam": {
+      "name": "Xtreme Gaming"
+    },
+    "direTeamId": 9247354,
+    "direTeam": {
+      "name": "Team Falcons"
+    }
+  },
+  {
+    "id": 8447554337,
+    "radiantTeamId": 9351740,
+    "radiantTeam": {
+      "name": "Invictus Gaming"
+    },
+    "direTeamId": 9467224,
+    "direTeam": {
+      "name": "Aurora Gaming"
+    }
+  },
+  {
+    "id": 8447103373,
+    "radiantTeamId": 7732977,
+    "radiantTeam": {
+      "name": "BOOM Esports"
+    },
+    "direTeamId": 8255888,
+    "direTeam": {
+      "name": "BetBoom Team"
+    }
+  },
+  {
+    "id": 8447045854,
+    "radiantTeamId": 2163,
+    "radiantTeam": {
+      "name": "Team Liquid"
+    },
+    "direTeamId": 9640842,
+    "direTeam": {
+      "name": "Team Tidebound"
+    }
+  },
+  {
+    "id": 8447028829,
+    "radiantTeamId": 7732977,
+    "radiantTeam": {
+      "name": "BOOM Esports"
+    },
+    "direTeamId": 8255888,
+    "direTeam": {
+      "name": "BetBoom Team"
+    }
+  },
+  {
+    "id": 8447025936,
+    "radiantTeamId": 9303484,
+    "radiantTeam": {
+      "name": "Heroic"
+    },
+    "direTeamId": 36,
+    "direTeam": {
+      "name": "Natus Vincere"
+    }
+  },
+  {
+    "id": 8447014435,
+    "radiantTeamId": 7554697,
+    "radiantTeam": {
+      "name": "Nigma Galaxy"
+    },
+    "direTeamId": 9572001,
+    "direTeam": {
+      "name": "PARIVISION"
+    }
+  },
+  {
+    "id": 8446950240,
+    "radiantTeamId": 9640842,
+    "radiantTeam": {
+      "name": "Team Tidebound"
+    },
+    "direTeamId": 2163,
+    "direTeam": {
+      "name": "Team Liquid"
+    }
+  },
+  {
+    "id": 8446946642,
+    "radiantTeamId": 36,
+    "radiantTeam": {
+      "name": "Natus Vincere"
+    },
+    "direTeamId": 9303484,
+    "direTeam": {
+      "name": "Heroic"
+    }
+  },
+  {
+    "id": 8446944434,
+    "radiantTeamId": 9651185,
+    "radiantTeam": {
+      "name": "Wildcard"
+    },
+    "direTeamId": 9467224,
+    "direTeam": {
+      "name": "Aurora Gaming"
+    }
+  },
+  {
+    "id": 8446928498,
+    "radiantTeamId": 9572001,
+    "radiantTeam": {
+      "name": "PARIVISION"
+    },
+    "direTeamId": 7554697,
+    "direTeam": {
+      "name": "Nigma Galaxy"
+    }
+  },
+  {
+    "id": 8446865588,
+    "radiantTeamId": 7119388,
+    "radiantTeam": {
+      "name": "Team Spirit"
+    },
+    "direTeamId": 8261500,
+    "direTeam": {
+      "name": "Xtreme Gaming"
+    }
+  },
+  {
+    "id": 8446859471,
+    "radiantTeamId": 9467224,
+    "radiantTeam": {
+      "name": "Aurora Gaming"
+    },
+    "direTeamId": 9651185,
+    "direTeam": {
+      "name": "Wildcard"
+    }
+  },
+  {
+    "id": 8446857575,
+    "radiantTeamId": 9691969,
+    "radiantTeam": {
+      "name": "Team Nemesis"
+    },
+    "direTeamId": 9351740,
+    "direTeam": {
+      "name": "Invictus Gaming"
+    }
+  },
+  {
+    "id": 8446796205,
+    "radiantTeamId": 9691969,
+    "radiantTeam": {
+      "name": "Team Nemesis"
+    },
+    "direTeamId": 9351740,
+    "direTeam": {
+      "name": "Invictus Gaming"
+    }
+  },
+  {
+    "id": 8446788561,
+    "radiantTeamId": 9247354,
+    "radiantTeam": {
+      "name": "Team Falcons"
+    },
+    "direTeamId": 8291895,
+    "direTeam": {
+      "name": "Tundra Esports"
+    }
+  },
+  {
+    "id": 8446776806,
+    "radiantTeamId": 7119388,
+    "radiantTeam": {
+      "name": "Team Spirit"
+    },
+    "direTeamId": 8261500,
+    "direTeam": {
+      "name": "Xtreme Gaming"
+    }
+  },
+  {
+    "id": 8446737464,
+    "radiantTeamId": 7554697,
+    "radiantTeam": {
+      "name": "Nigma Galaxy"
+    },
+    "direTeamId": 8255888,
+    "direTeam": {
+      "name": "BetBoom Team"
+    }
+  },
+  {
+    "id": 8446694029,
+    "radiantTeamId": 9691969,
+    "radiantTeam": {
+      "name": "Team Nemesis"
+    },
+    "direTeamId": 9351740,
+    "direTeam": {
+      "name": "Invictus Gaming"
+    }
+  },
+  {
+    "id": 8446684731,
+    "radiantTeamId": 8291895,
+    "radiantTeam": {
+      "name": "Tundra Esports"
+    },
+    "direTeamId": 9247354,
+    "direTeam": {
+      "name": "Team Falcons"
+    }
+  },
+  {
+    "id": 8446677650,
+    "radiantTeamId": 8261500,
+    "radiantTeam": {
+      "name": "Xtreme Gaming"
+    },
+    "direTeamId": 7119388,
+    "direTeam": {
+      "name": "Team Spirit"
+    }
+  },
+  {
+    "id": 8446611170,
+    "radiantTeamId": 8255888,
+    "radiantTeam": {
+      "name": "BetBoom Team"
+    },
+    "direTeamId": 7554697,
+    "direTeam": {
+      "name": "Nigma Galaxy"
+    }
+  },
+  {
+    "id": 8446591860,
+    "radiantTeamId": 9640842,
+    "radiantTeam": {
+      "name": "Team Tidebound"
+    },
+    "direTeamId": 36,
+    "direTeam": {
+      "name": "Natus Vincere"
+    }
+  },
+  {
+    "id": 8446587536,
+    "radiantTeamId": 9247354,
+    "radiantTeam": {
+      "name": "Team Falcons"
+    },
+    "direTeamId": 8291895,
+    "direTeam": {
+      "name": "Tundra Esports"
+    }
+  },
+  {
+    "id": 8446581353,
+    "radiantTeamId": 2163,
+    "radiantTeam": {
+      "name": "Team Liquid"
+    },
+    "direTeamId": 7732977,
+    "direTeam": {
+      "name": "BOOM Esports"
+    }
+  },
+  {
+    "id": 8446519006,
+    "radiantTeamId": 9640842,
+    "radiantTeam": {
+      "name": "Team Tidebound"
+    },
+    "direTeamId": 36,
+    "direTeam": {
+      "name": "Natus Vincere"
+    }
+  },
+  {
+    "id": 8446507420,
+    "radiantTeamId": 9572001,
+    "radiantTeam": {
+      "name": "PARIVISION"
+    },
+    "direTeamId": 9303484,
+    "direTeam": {
+      "name": "Heroic"
+    }
+  },
+  {
+    "id": 8446490976,
+    "radiantTeamId": 7554697,
+    "radiantTeam": {
+      "name": "Nigma Galaxy"
+    },
+    "direTeamId": 8255888,
+    "direTeam": {
+      "name": "BetBoom Team"
+    }
+  },
+  {
+    "id": 8446486254,
+    "radiantTeamId": 2163,
+    "radiantTeam": {
+      "name": "Team Liquid"
+    },
+    "direTeamId": 7732977,
+    "direTeam": {
+      "name": "BOOM Esports"
+    }
+  },
+  {
+    "id": 8446450509,
+    "radiantTeamId": 36,
+    "radiantTeam": {
+      "name": "Natus Vincere"
+    },
+    "direTeamId": 9640842,
+    "direTeam": {
+      "name": "Team Tidebound"
+    }
+  },
+  {
+    "id": 8446415005,
+    "radiantTeamId": 9303484,
+    "radiantTeam": {
+      "name": "Heroic"
+    },
+    "direTeamId": 9572001,
+    "direTeam": {
+      "name": "PARIVISION"
+    }
+  },
+  {
+    "id": 8446405148,
+    "radiantTeamId": 9351740,
+    "radiantTeam": {
+      "name": "Invictus Gaming"
+    },
+    "direTeamId": 8291895,
+    "direTeam": {
+      "name": "Tundra Esports"
+    }
+  },
+  {
+    "id": 8446403094,
+    "radiantTeamId": 2163,
+    "radiantTeam": {
+      "name": "Team Liquid"
+    },
+    "direTeamId": 7732977,
+    "direTeam": {
+      "name": "BOOM Esports"
+    }
+  },
+  {
+    "id": 8446401276,
+    "radiantTeamId": 9691969,
+    "radiantTeam": {
+      "name": "Team Nemesis"
+    },
+    "direTeamId": 9247354,
+    "direTeam": {
+      "name": "Team Falcons"
+    }
+  },
+  {
+    "id": 8446366051,
+    "radiantTeamId": 8261500,
+    "radiantTeam": {
+      "name": "Xtreme Gaming"
+    },
+    "direTeamId": 9467224,
+    "direTeam": {
+      "name": "Aurora Gaming"
+    }
+  },
+  {
+    "id": 8446364519,
+    "radiantTeamId": 7119388,
+    "radiantTeam": {
+      "name": "Team Spirit"
+    },
+    "direTeamId": 9651185,
+    "direTeam": {
+      "name": "Wildcard"
+    }
+  },
+  {
+    "id": 8446357694,
+    "radiantTeamId": 8291895,
+    "radiantTeam": {
+      "name": "Tundra Esports"
+    },
+    "direTeamId": 9351740,
+    "direTeam": {
+      "name": "Invictus Gaming"
+    }
+  },
+  {
+    "id": 8446350616,
+    "radiantTeamId": 9691969,
+    "radiantTeam": {
+      "name": "Team Nemesis"
+    },
+    "direTeamId": 9247354,
+    "direTeam": {
+      "name": "Team Falcons"
+    }
+  },
+  {
+    "id": 8446312823,
+    "radiantTeamId": 9351740,
+    "radiantTeam": {
+      "name": "Invictus Gaming"
+    },
+    "direTeamId": 8291895,
+    "direTeam": {
+      "name": "Tundra Esports"
+    }
+  },
+  {
+    "id": 8446311725,
+    "radiantTeamId": 9691969,
+    "radiantTeam": {
+      "name": "Team Nemesis"
+    },
+    "direTeamId": 9247354,
+    "direTeam": {
+      "name": "Team Falcons"
+    }
+  },
+  {
+    "id": 8446311513,
+    "radiantTeamId": 7119388,
+    "radiantTeam": {
+      "name": "Team Spirit"
+    },
+    "direTeamId": 9651185,
+    "direTeam": {
+      "name": "Wildcard"
+    }
+  },
+  {
+    "id": 8446311496,
+    "radiantTeamId": 8261500,
+    "radiantTeam": {
+      "name": "Xtreme Gaming"
+    },
+    "direTeamId": 9467224,
+    "direTeam": {
+      "name": "Aurora Gaming"
+    }
+  }
+]

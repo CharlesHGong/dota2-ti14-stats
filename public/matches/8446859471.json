@@ -1,0 +1,719 @@
+{
+  "data": {
+    "match": {
+      "leagueId": 18324,
+      "direTeam": {
+        "name": "Wildcard"
+      },
+      "direTeamId": 9651185,
+      "radiantTeam": {
+        "name": "Aurora Gaming"
+      },
+      "radiantTeamId": 9467224,
+      "durationSeconds": 1801,
+      "players": [
+        {
+          "playbackData": {
+            "itemUsedEvents": [],
+            "playerUpdatePositionEvents": []
+          },
+          "hero": {
+            "displayName": "Ursa"
+          },
+          "steamAccountId": 124801257,
+          "isRadiant": true,
+          "stats": {
+            "wards": []
+          }
+        },
+        {
+          "playbackData": {
+            "itemUsedEvents": [],
+            "playerUpdatePositionEvents": []
+          },
+          "hero": {
+            "displayName": "Ember Spirit"
+          },
+          "steamAccountId": 858106446,
+          "isRadiant": true,
+          "stats": {
+            "wards": [
+              {
+                "time": -12,
+                "type": 0,
+                "positionX": 116,
+                "positionY": 124
+              },
+              {
+                "time": 363,
+                "type": 0,
+                "positionX": 126,
+                "positionY": 116
+              },
+              {
+                "time": 423,
+                "type": 1,
+                "positionX": 120,
+                "positionY": 128
+              }
+            ]
+          }
+        },
+        {
+          "playbackData": {
+            "itemUsedEvents": [],
+            "playerUpdatePositionEvents": []
+          },
+          "hero": {
+            "displayName": "Dawnbreaker"
+          },
+          "steamAccountId": 431770905,
+          "isRadiant": true,
+          "stats": {
+            "wards": [
+              {
+                "time": 1164,
+                "type": 1,
+                "positionX": 160,
+                "positionY": 70
+              }
+            ]
+          }
+        },
+        {
+          "playbackData": {
+            "itemUsedEvents": [
+              {
+                "time": 543,
+                "itemId": 188
+              },
+              {
+                "time": 812,
+                "itemId": 188
+              }
+            ],
+            "playerUpdatePositionEvents": [
+              {
+                "time": 543,
+                "x": 114,
+                "y": 134
+              },
+              {
+                "time": 812,
+                "x": 128,
+                "y": 128
+              }
+            ]
+          },
+          "hero": {
+            "displayName": "Snapfire"
+          },
+          "steamAccountId": 256156323,
+          "isRadiant": true,
+          "stats": {
+            "wards": [
+              {
+                "time": 19,
+                "type": 1,
+                "positionX": 134,
+                "positionY": 98
+              },
+              {
+                "time": 113,
+                "type": 1,
+                "positionX": 94,
+                "positionY": 164
+              },
+              {
+                "time": 167,
+                "type": 1,
+                "positionX": 96,
+                "positionY": 168
+              },
+              {
+                "time": 246,
+                "type": 1,
+                "positionX": 88,
+                "positionY": 154
+              },
+              {
+                "time": 302,
+                "type": 0,
+                "positionX": 86,
+                "positionY": 146
+              },
+              {
+                "time": 479,
+                "type": 1,
+                "positionX": 142,
+                "positionY": 116
+              },
+              {
+                "time": 586,
+                "type": 1,
+                "positionX": 108,
+                "positionY": 140
+              },
+              {
+                "time": 639,
+                "type": 1,
+                "positionX": 130,
+                "positionY": 126
+              },
+              {
+                "time": 776,
+                "type": 0,
+                "positionX": 146,
+                "positionY": 132
+              },
+              {
+                "time": 826,
+                "type": 0,
+                "positionX": 164,
+                "positionY": 132
+              },
+              {
+                "time": 842,
+                "type": 1,
+                "positionX": 66,
+                "positionY": 140
+              },
+              {
+                "time": 925,
+                "type": 1,
+                "positionX": 154,
+                "positionY": 122
+              },
+              {
+                "time": 995,
+                "type": 1,
+                "positionX": 122,
+                "positionY": 138
+              },
+              {
+                "time": 1064,
+                "type": 0,
+                "positionX": 128,
+                "positionY": 146
+              },
+              {
+                "time": 1113,
+                "type": 1,
+                "positionX": 174,
+                "positionY": 80
+              },
+              {
+                "time": 1177,
+                "type": 0,
+                "positionX": 116,
+                "positionY": 186
+              },
+              {
+                "time": 1357,
+                "type": 1,
+                "positionX": 172,
+                "positionY": 70
+              },
+              {
+                "time": 1386,
+                "type": 0,
+                "positionX": 166,
+                "positionY": 108
+              },
+              {
+                "time": 1484,
+                "type": 1,
+                "positionX": 122,
+                "positionY": 186
+              },
+              {
+                "time": 1488,
+                "type": 0,
+                "positionX": 118,
+                "positionY": 186
+              }
+            ]
+          }
+        },
+        {
+          "playbackData": {
+            "itemUsedEvents": [
+              {
+                "time": -42,
+                "itemId": 188
+              },
+              {
+                "time": 1051,
+                "itemId": 188
+              }
+            ],
+            "playerUpdatePositionEvents": [
+              {
+                "time": -42,
+                "x": 104,
+                "y": 110
+              }
+            ]
+          },
+          "hero": {
+            "displayName": "Batrider"
+          },
+          "steamAccountId": 108958769,
+          "isRadiant": true,
+          "stats": {
+            "wards": [
+              {
+                "time": -15,
+                "type": 0,
+                "positionX": 128,
+                "positionY": 96
+              },
+              {
+                "time": 58,
+                "type": 1,
+                "positionX": 164,
+                "positionY": 94
+              },
+              {
+                "time": 64,
+                "type": 1,
+                "positionX": 156,
+                "positionY": 88
+              },
+              {
+                "time": 350,
+                "type": 0,
+                "positionX": 146,
+                "positionY": 108
+              },
+              {
+                "time": 355,
+                "type": 1,
+                "positionX": 134,
+                "positionY": 118
+              },
+              {
+                "time": 426,
+                "type": 1,
+                "positionX": 192,
+                "positionY": 118
+              },
+              {
+                "time": 867,
+                "type": 1,
+                "positionX": 66,
+                "positionY": 126
+              },
+              {
+                "time": 1062,
+                "type": 0,
+                "positionX": 134,
+                "positionY": 124
+              },
+              {
+                "time": 1062,
+                "type": 1,
+                "positionX": 134,
+                "positionY": 124
+              },
+              {
+                "time": 1342,
+                "type": 1,
+                "positionX": 154,
+                "positionY": 90
+              },
+              {
+                "time": 1344,
+                "type": 1,
+                "positionX": 156,
+                "positionY": 98
+              },
+              {
+                "time": 1401,
+                "type": 1,
+                "positionX": 130,
+                "positionY": 156
+              },
+              {
+                "time": 1405,
+                "type": 0,
+                "positionX": 146,
+                "positionY": 158
+              },
+              {
+                "time": 1623,
+                "type": 1,
+                "positionX": 188,
+                "positionY": 114
+              },
+              {
+                "time": 1627,
+                "type": 0,
+                "positionX": 192,
+                "positionY": 128
+              },
+              {
+                "time": 1646,
+                "type": 1,
+                "positionX": 170,
+                "positionY": 92
+              },
+              {
+                "time": 1798,
+                "type": 1,
+                "positionX": 160,
+                "positionY": 158
+              }
+            ]
+          }
+        },
+        {
+          "playbackData": {
+            "itemUsedEvents": [],
+            "playerUpdatePositionEvents": []
+          },
+          "hero": {
+            "displayName": "Leshrac"
+          },
+          "steamAccountId": 154974246,
+          "isRadiant": false,
+          "stats": {
+            "wards": [
+              {
+                "time": -55,
+                "type": 0,
+                "positionX": 142,
+                "positionY": 116
+              },
+              {
+                "time": 284,
+                "type": 1,
+                "positionX": 118,
+                "positionY": 128
+              },
+              {
+                "time": 342,
+                "type": 0,
+                "positionX": 122,
+                "positionY": 130
+              }
+            ]
+          }
+        },
+        {
+          "playbackData": {
+            "itemUsedEvents": [
+              {
+                "time": -53,
+                "itemId": 188
+              },
+              {
+                "time": 802,
+                "itemId": 188
+              },
+              {
+                "time": 1309,
+                "itemId": 188
+              }
+            ],
+            "playerUpdatePositionEvents": [
+              {
+                "time": -53,
+                "x": 148,
+                "y": 118
+              },
+              {
+                "time": 1309,
+                "x": 158,
+                "y": 124
+              }
+            ]
+          },
+          "hero": {
+            "displayName": "Disruptor"
+          },
+          "steamAccountId": 191362875,
+          "isRadiant": false,
+          "stats": {
+            "wards": [
+              {
+                "time": -26,
+                "type": 0,
+                "positionX": 128,
+                "positionY": 100
+              },
+              {
+                "time": 121,
+                "type": 1,
+                "positionX": 96,
+                "positionY": 170
+              },
+              {
+                "time": 147,
+                "type": 1,
+                "positionX": 92,
+                "positionY": 156
+              },
+              {
+                "time": 228,
+                "type": 1,
+                "positionX": 96,
+                "positionY": 170
+              },
+              {
+                "time": 397,
+                "type": 1,
+                "positionX": 132,
+                "positionY": 118
+              },
+              {
+                "time": 518,
+                "type": 0,
+                "positionX": 102,
+                "positionY": 160
+              },
+              {
+                "time": 908,
+                "type": 1,
+                "positionX": 156,
+                "positionY": 122
+              },
+              {
+                "time": 1053,
+                "type": 0,
+                "positionX": 158,
+                "positionY": 80
+              },
+              {
+                "time": 1212,
+                "type": 1,
+                "positionX": 128,
+                "positionY": 186
+              },
+              {
+                "time": 1447,
+                "type": 1,
+                "positionX": 156,
+                "positionY": 162
+              },
+              {
+                "time": 1616,
+                "type": 1,
+                "positionX": 154,
+                "positionY": 132
+              }
+            ]
+          }
+        },
+        {
+          "playbackData": {
+            "itemUsedEvents": [
+              {
+                "time": 1034,
+                "itemId": 188
+              },
+              {
+                "time": 1462,
+                "itemId": 188
+              }
+            ],
+            "playerUpdatePositionEvents": [
+              {
+                "time": 1034,
+                "x": 140,
+                "y": 128
+              },
+              {
+                "time": 1462,
+                "x": 142,
+                "y": 146
+              }
+            ]
+          },
+          "hero": {
+            "displayName": "Bounty Hunter"
+          },
+          "steamAccountId": 90423751,
+          "isRadiant": false,
+          "stats": {
+            "wards": [
+              {
+                "time": 45,
+                "type": 1,
+                "positionX": 156,
+                "positionY": 88
+              },
+              {
+                "time": 88,
+                "type": 1,
+                "positionX": 168,
+                "positionY": 98
+              },
+              {
+                "time": 503,
+                "type": 1,
+                "positionX": 142,
+                "positionY": 130
+              },
+              {
+                "time": 802,
+                "type": 1,
+                "positionX": 122,
+                "positionY": 150
+              },
+              {
+                "time": 912,
+                "type": 0,
+                "positionX": 158,
+                "positionY": 72
+              },
+              {
+                "time": 1013,
+                "type": 1,
+                "positionX": 136,
+                "positionY": 140
+              },
+              {
+                "time": 1029,
+                "type": 1,
+                "positionX": 134,
+                "positionY": 118
+              },
+              {
+                "time": 1032,
+                "type": 0,
+                "positionX": 142,
+                "positionY": 122
+              },
+              {
+                "time": 1187,
+                "type": 1,
+                "positionX": 110,
+                "positionY": 184
+              },
+              {
+                "time": 1464,
+                "type": 1,
+                "positionX": 138,
+                "positionY": 140
+              },
+              {
+                "time": 1527,
+                "type": 0,
+                "positionX": 80,
+                "positionY": 190
+              },
+              {
+                "time": 1529,
+                "type": 1,
+                "positionX": 82,
+                "positionY": 186
+              },
+              {
+                "time": 1618,
+                "type": 1,
+                "positionX": 154,
+                "positionY": 122
+              },
+              {
+                "time": 1624,
+                "type": 0,
+                "positionX": 162,
+                "positionY": 134
+              },
+              {
+                "time": 1717,
+                "type": 1,
+                "positionX": 166,
+                "positionY": 146
+              }
+            ]
+          }
+        },
+        {
+          "playbackData": {
+            "itemUsedEvents": [],
+            "playerUpdatePositionEvents": []
+          },
+          "hero": {
+            "displayName": "Undying"
+          },
+          "steamAccountId": 160119017,
+          "isRadiant": false,
+          "stats": {
+            "wards": [
+              {
+                "time": 491,
+                "type": 1,
+                "positionX": 174,
+                "positionY": 100
+              },
+              {
+                "time": 516,
+                "type": 0,
+                "positionX": 178,
+                "positionY": 74
+              },
+              {
+                "time": 724,
+                "type": 1,
+                "positionX": 192,
+                "positionY": 114
+              },
+              {
+                "time": 904,
+                "type": 1,
+                "positionX": 130,
+                "positionY": 160
+              },
+              {
+                "time": 929,
+                "type": 0,
+                "positionX": 94,
+                "positionY": 182
+              },
+              {
+                "time": 930,
+                "type": 1,
+                "positionX": 92,
+                "positionY": 180
+              },
+              {
+                "time": 1425,
+                "type": 1,
+                "positionX": 166,
+                "positionY": 132
+              },
+              {
+                "time": 1459,
+                "type": 1,
+                "positionX": 136,
+                "positionY": 154
+              },
+              {
+                "time": 1487,
+                "type": 0,
+                "positionX": 108,
+                "positionY": 180
+              }
+            ]
+          }
+        },
+        {
+          "playbackData": {
+            "itemUsedEvents": [],
+            "playerUpdatePositionEvents": []
+          },
+          "hero": {
+            "displayName": "Abaddon"
+          },
+          "steamAccountId": 81475303,
+          "isRadiant": false,
+          "stats": {
+            "wards": []
+          }
+        }
+      ]
+    }
+  }
+}
