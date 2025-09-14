@@ -61,7 +61,7 @@ if (ids.length === 0) {
   process.exit(1);
 }
 
-const apiKey = process.env.STRATZ_API_KEY || "jE1M9jZk28iOXJs2LBfrN3gxWeqfgR2B";
+const apiKey = process.env.STRATZ_API_KEY;
 const endpoint = `https://api.stratz.com/graphql?key=${apiKey}`;
 
 function buildQuery(id) {
